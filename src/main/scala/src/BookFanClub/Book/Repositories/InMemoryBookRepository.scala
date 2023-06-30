@@ -1,8 +1,8 @@
-package src.BookFanClub.Books.Repositories
+package src.BookFanClub.Book.Repositories
 
 import com.google.inject.{Inject, Singleton}
-import src.BookFanClub.Books.Repositories.BookRepository
-import src.BookFanClub.Books.model.Book
+import src.BookFanClub.Book.Repositories.BookRepository
+import src.BookFanClub.Book.model.Book
 
 import scala.concurrent.Future
 

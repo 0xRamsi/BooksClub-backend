@@ -23,4 +23,10 @@ See also the Frontend part, for this project. You can of course just run it and 
 
 > curl localhost:8081/book/{one of the IDs from the first request} 
 
+---
+
+* **Why Akka and not the play-framework?**  
+ Play would have been a more sensible choice for a commercial application. This is a learning project, and
+my goal is to learn Scala, and demonstrate some concepts that I learned. 
+
 [1]: https://akka.io/

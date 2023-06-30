@@ -1,6 +1,6 @@
-package src.BookFanClub.Books.Repositories
+package src.BookFanClub.Book.Repositories
 
-import src.BookFanClub.Books.model.Book
+import src.BookFanClub.Book.model.Book
 
 import scala.concurrent.Future
 
